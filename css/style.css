@@ -724,7 +724,8 @@ section{
 }
 
 .loader-container img{
-    height:10rem;
+    height:100%;
+    width: 100%;
 }
 
 
